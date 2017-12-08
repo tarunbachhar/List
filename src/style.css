@@ -1,0 +1,55 @@
+h1,h2{
+  display: inline;
+}
+
+.three {
+  margin-top: 1.5em;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.one {
+  margin-right:1em;
+}
+
+.battan {
+  margin-top: 3em;
+  margin-bottom: 3em;
+  text-align: center;
+}
+body {
+  background-color: #ffb3b3;
+}
+.list {
+  text-align: center;
+}
+.emp1 {
+  color: red;
+  margin-left: 1em;
+  margin-right: 1em;
+}
+.emp2 {
+  color: blue;
+  margin-left: 1em;
+  margin-right: 1em;
+}
+
+.emp3 {
+  color: green;
+  margin-left: 1em;
+  margin-right: 1em;
+}
+.emp4 {
+  color: yellow;
+  margin-left: 1em;
+  margin-right: 1em;
+}
+.base {
+  margin-bottom: 1em;
+  margin-top: 1em;
+}
+.routin{
+  margin-bottom: 1em;
+  margin-top: 1em;
+}

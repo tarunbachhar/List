@@ -1,0 +1,26 @@
+[
+  {
+    "name":"abc",
+    "age":"24",
+    "address":"103 street",
+    "contactNo":"65657989"
+  },
+  {
+    "name":"bcd",
+    "age":"36",
+    "address":"vasantvihar new delhi",
+    "contactNo":"1113223447"
+  },
+  {
+    "name":"efg",
+    "age":"89",
+    "address":"68 shivaji nagar gurgaon",
+    "contactNo":"6652122549"
+  },
+  {
+    "name":"ijk",
+    "age":"67",
+    "address":"948 road aligarh",
+    "contactNo":"544365658"
+  }
+]
